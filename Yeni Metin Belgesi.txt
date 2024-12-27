@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik Politikası</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+        p {
+            margin: 10px 0;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gizlilik Politikası</h1>
+        <p><strong>"Chery Yol Arkadaşım"</strong> uygulaması olarak, kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamamızın nasıl çalıştığını ve kullanıcı verileriyle ilgili yaklaşımlarımızı açıklamaktadır.</p>
+
+        <h2>Topladığımız Veriler</h2>
+        <p><strong>"Chery Yol Arkadaşım"</strong> uygulaması, kullanıcılarından herhangi bir kişisel bilgi toplamaz. Uygulamamız, herhangi bir bildirim izni, konum bilgisi veya başka bir kullanıcı verisi talep etmez.</p>
+
+        <h2>Uygulama İşlevselliği</h2>
+        <p>Uygulamamız yalnızca şu amaçlar doğrultusunda çalışmaktadır:</p>
+        <ul>
+            <li>Chery topluluğumuza özel servislerin iletişim bilgilerini sağlama,</li>
+            <li>Chery topluluğunun sosyal medya hesaplarına yönlendirme,</li>
+            <li>WhatsApp gruplarına erişim için bağlantı sağlama.</li>
+        </ul>
+        <p>Bu işlevler, kullanıcı deneyimini kolaylaştırmayı hedefler ve kişisel veri işlenmesini gerektirmez.</p>
+
+        <h2>Üçüncü Taraf Bağlantılar</h2>
+        <p>Uygulamamızda yer alan sosyal medya ve WhatsApp grubu yönlendirme bağlantıları, üçüncü taraf platformlara erişim sağlamaktadır. Bu platformlar, kendi gizlilik politikalarına tabidir. Lütfen bu platformların gizlilik politikalarını incelemeyi unutmayın.</p>
+
+        <h2>Veri Güvenliği</h2>
+        <p>Uygulamamızda herhangi bir veri toplama işlemi gerçekleşmediği için veri güvenliği riski bulunmamaktadır. Kullanıcılar, uygulamamızı gönül rahatlığıyla kullanabilir.</p>
+
+        <h2>Değişiklikler</h2>
+        <p>Gizlilik politikamızda herhangi bir değişiklik yapılması durumunda, bu sayfa üzerinden güncel politikayı paylaşacağız.</p>
+
+        <h2>İletişim</h2>
+        <p>Herhangi bir sorunuz ya da endişeniz olursa, bizimle iletişime geçmekten çekinmeyin:</p>
+        <p>E-posta: <a href="mailto:ornek@eposta.com">ornek@eposta.com</a></p>
+    </div>
+</body>
+</html>
